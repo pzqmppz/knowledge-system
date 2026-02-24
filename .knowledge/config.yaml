@@ -1,0 +1,119 @@
+# 知识体系配置文件
+# 此文件供程序读取，了解知识体系结构和元数据规范
+
+version: "1.0"
+created: "2026-02-24"
+name: "知识体系"
+description: "日常学习知识点记录库 - 人机双可读"
+
+# 元数据规范
+metadata:
+  format: "yaml_frontmatter"
+  encoding: "utf-8"
+  required_fields:
+    - title
+    - category
+    - date
+  optional_fields:
+    - tags
+    - source
+    - author
+    - status
+    - related
+    - difficulty
+    - priority
+
+# 分类定义
+categories:
+  - name: "前端开发"
+    icon: "📁"
+    description: "HTML/CSS/JavaScript、框架、状态管理、构建工具、性能优化"
+  - name: "后端开发"
+    icon: "📁"
+    description: "服务端语言、API设计、微服务架构、认证授权、后端性能"
+  - name: "数据库"
+    icon: "📁"
+    description: "关系型数据库、NoSQL、数据库设计、查询优化、ORM"
+  - name: "算法与数据结构"
+    icon: "📁"
+    description: "常见算法、数据结构、LeetCode解题、复杂度分析"
+  - name: "系统设计"
+    icon: "📁"
+    description: "架构设计、分布式系统、缓存策略、消息队列、高可用/高并发"
+  - name: "DevOps运维"
+    icon: "📁"
+    description: "容器化、CI/CD、监控与日志、云服务"
+  - name: "计算机基础"
+    icon: "📁"
+    description: "操作系统、计算机网络、数据结构原理、编译原理"
+  - name: "AI工具"
+    icon: "📁"
+    description: "AI编程助手、AI代理/Agent、AI工作流自动化、Prompt Engineering、AI辅助开发实践"
+  - name: "工具与效率"
+    icon: "📁"
+    description: "Git使用、IDE/编辑器技巧、命令行工具、自动化脚本"
+  - name: "软技能"
+    icon: "📁"
+    description: "沟通协作、项目管理、学习方法、职业规划"
+  - name: "游戏开发"
+    icon: "🎮"
+    description: "游戏设计想法、引擎与工具、游戏编程、美术资源、音效音乐、项目管理"
+  - name: "编程项目"
+    icon: "💻"
+    description: "项目讨论、进行中、已完成的项目管理"
+  - name: "其他"
+    icon: "📁"
+    description: "暂未分类的知识点"
+
+# 状态值定义
+status_values:
+  - "draft"        # 草稿
+  - "complete"     # 完成
+  - "updating"     # 更新中
+  - "archived"     # 已归档
+
+# 难度等级
+difficulty_values:
+  - "beginner"     # 入门
+  - "intermediate" # 中级
+  - "advanced"     # 高级
+  - "expert"       # 专家
+
+# 优先级
+priority_values:
+  - "low"          # 低
+  - "medium"       # 中
+  - "high"         # 高
+  - "critical"     # 紧急
+
+# 文件命名规范
+naming_convention:
+  format: "{title}.{ext}"
+  date_format: "YYYY-MM-DD"
+  allowed_extensions: ["md", "markdown"]
+
+# 程序读取指南
+program_access:
+  # 扫描所有分类目录
+  scan_dirs: ["前端开发", "后端开发", "数据库", "算法与数据结构", "系统设计", "DevOps运维", "计算机基础", "AI工具", "工具与效率", "软技能", "游戏开发", "编程项目", "其他"]
+
+  # 忽略的目录
+  ignore_dirs: [".knowledge", ".git", "node_modules", "box"]
+
+  # 元数据解析方式
+  metadata_parser: "yaml_frontmatter"
+
+  # 搜索建议
+  search_strategy:
+    - "按分类扫描"
+    - "按标签索引"
+    - "按日期范围"
+    - "全文搜索"
+    - "按关系图谱"
+
+# 知识图谱配置
+graph:
+  link_syntax: "obsidian"  # 双向链接语法: obsidian [[link]] 或 wiki [[:link:]]
+  bidirectional: true      # 支持双向链接
+  backlinks_section: "反向链接"
+  spec_file: ".knowledge/GRAPH_SPEC.md"
