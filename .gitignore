@@ -1,6 +1,9 @@
 # 临时仓库 - 原始素材不上传
 box/
 
+# 书籍管理 - 完整生命周期不上传
+书籍管理/
+
 # Obsidian 配置
 .obsidian/workspace.json
 .obsidian/app.json

@@ -5,7 +5,17 @@
       "mcp__web-reader__webReader",
       "mcp__zread__get_repo_structure",
       "mcp__zread__read_file",
-      "Read(//c/Users/Admin/.claude/skills/**)"
+      "Read(//c/Users/Admin/.claude/skills/**)",
+      "Bash(du -sh \"C:/Users/Admin/AppData/Local/Temp/\"*)",
+      "Bash(du -sh \"C:/Users/Admin/.cache/\"*/)",
+      "Bash(du -sh \"C:/Users/Admin/AppData/Local/NVIDIA/\"*/)",
+      "Bash(du -sh \"C:/Users/Admin/AppData/Local/\"*/)",
+      "Bash(powershell -Command \"Get-ChildItem ''C:/Users/Admin/AppData/Local/'' -Directory | ForEach-Object { $size = \\(Get-ChildItem $_FullName -Recurse -ErrorAction SilentlyContinue | Measure-Object -Property Length -Sum\\).Sum / 1GB; if \\($size -gt 0.1\\) { ''{0:N2} GB - {1}'' -f $size, $_Name } } | Sort-Object -Descending\")",
+      "Bash(du -sh \"E:/ai-deploy/models/\"*/)",
+      "Bash(du -sh \"C:/Users/Admin/AppData/Local/Programs/Python/Python310/Lib/site-packages/\"*/)",
+      "Bash(npx tsx \"C:/Users/Admin/.claude/coze-workflow/scripts/compare-http-node.ts\" \"E:/文档/code/WeHan/client/workflows/interview_next_workflow.json\")",
+      "Bash(nslookup bilibili.com)",
+      "WebFetch(domain:api.github.com)"
     ]
   }
 }

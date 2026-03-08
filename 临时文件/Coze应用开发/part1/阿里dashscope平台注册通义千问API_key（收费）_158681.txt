@@ -1,0 +1,11 @@
+通义千问灵积（要收费，右上角头像下拉可以充值）
+https://dashscope.console.aliyun.com/apiKey
+手机号登录
+
+获取通义千问API KEY的教程
+https://help.aliyun.com/zh/dashscope/developer-reference/acquisition-and-configuration-of-api-key
+
+
+model输入qwen-72b-chat
+system中为提示词，引用的变量要去掉双括号。例如：你是一个英语翻译专家，请把a翻译为英文
+content用来引入上一个节点的变量，例如：a
