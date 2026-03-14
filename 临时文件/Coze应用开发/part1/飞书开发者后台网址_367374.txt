@@ -1,8 +1,0 @@
-开发者后台
-https://open.feishu.cn/app?lang=zh-CN
-
-飞书主页
-https://www.feishu.cn/
-
-飞书管理后台（审批）
-https://bafbjwkos6j.feishu.cn/admin/appCenter/audit/

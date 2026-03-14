@@ -44,6 +44,7 @@ status: "updated"
 
 | 文件 | 标签 | 难度 | 日期 |
 |------|------|------|------|
+| [智谱AI输入法 - 产品介绍](./智谱AI输入法-产品介绍.md) | #语音输入 #指令理解 #VoiceCoding | beginner | 2026-03-09 |
 | [Context7 深度指南](./CONTEXT7-深度指南.md) | #MCP #文档 #AI编程 #Claude-Code | beginner | 2026-03-06 |
 | [VIBE CODING v2.0](./VIBE%20CODING%202.0.md) | #Claude-Code #开发流程 #AI编程 #SOP | beginner | 2026-03-06 |
 | → [VIBE CODING/](./VIBE%20CODING/) | 拆分文档（11 个文件）| | |

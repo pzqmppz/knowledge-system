@@ -1,0 +1,30 @@
+{
+  "choices": [
+    {
+      "id": "daily-excerpt-20260313",
+      "name": "每日摘抄",
+      "type": "Capture",
+      "command": false,
+      "captureToActiveFile": false,
+      "createInSamePaneAsActiveFile": false,
+      "captureTo": "摘抄笔记/{{DATE:YYYY-MM}}/{{DATE:YYYY-MM-DD}}-摘抄.md",
+      "captureFormat": "\n\n## {{TIME}} 摘抄\n\n**来源**：{{active_filepath}}\n\n> {{selection}}\n\n**我的思考**：\n\n\n---",
+      "insertAfter": {
+        "insertAfterWhere": {
+          "path": "摘抄笔记/{{DATE:YYYY-MM}}/{{DATE:YYYY-MM-DD}}-摘抄.md",
+          "newline": true
+        },
+        "createIfNotFound": true,
+        "appendToEndOf": "file"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      }
+    }
+  ],
+  "macros": []
+}
