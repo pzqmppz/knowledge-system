@@ -35,7 +35,7 @@ status: "updating"
 | [[自我重塑与心理健康 - Dr.K 访谈解读]] | 观点/个人成长 | Huberman Lab | 2026-03-09 |
 | [[Cloud Code 与 AI 编程工作流 - Boris Cherny 访谈解读]] | 技术/项目 | Lenny's Podcast | 2026-03-09 |
 | [[AI 时代设计师角色的演变 - Jenny Wang 访谈解读]] | 技术/设计 | Lenny's Podcast | 2026-03-09 |
-| [[2026 年大模型发展趋势 - Sebastian Raschka 访谈解读]] | 技术/科普 | TL;DR AI | 2026-03-09 |
+| [[高-对比-2026 年大模型发展趋势 - Sebastian Raschka 访谈解读]] | 技术/科普 | TL;DR AI | 2026-03-09 |
 | [[屠龙之术x快手-内容消费深水区-解读]] | 商业/行业趋势 | 播客对谈 | 2026-03-09 |
 | [[Jim-Collins-如何成就一生-解读]] | 观点/个人成长 | 小宇宙FM | 2026-03-09 |
 | [[屠龙之术-AI行业2026补充篇-解读]] | 科普/技术 | 屠龙之术 | 2026-03-09 |
@@ -51,11 +51,11 @@ status: "updating"
 | [[Zo Computer - 个人云计算机产品解读]] | 技术/产品 | 产品演示 | 2026-03-13 |
 | [[主权 AI 的崛起 - Mistral AI 解读]] | 技术/商业 | Mad Podcast | 2026-03-13 |
 | [[Runway CEO - AI Video - 深度解读]] | 技术/产品 | 播客访谈 | 2026-03-13 |
-| [[2026年LLM现状：后训练时代的范式转移_解读]] | 技术/科普 | 播客访谈 | 2026-03-13 |
+| [[高-对比-2026年LLM现状：后训练时代的范式转移_解读]] | 技术/科普 | 播客访谈 | 2026-03-13 |
 | [[SurrealDB CEO - 深度解读]] | 技术/产品 | 播客访谈 | 2026-03-13 |
 | [[评估者正在被评估：AI对齐与安全的前沿_解读]] | 技术/商业 | 播客访谈 | 2026-03-13 |
 | [[RAG 发明者谈 GPT 4.5、DeepSeek 与 Agentic RAG - Douwe Kiela 访谈解读]] | 技术/商业 | MAD Podcast | 2026-03-13 |
-| [[比预期更超前：Gemini 3与AI的未来_解读]] | 技术/商业 | 播客访谈 | 2026-03-13 |
+| [[高-对比-比预期更超前：Gemini 3与AI的未来_解读]] | 技术/商业 | 播客访谈 | 2026-03-13 |
 | [[AI的下一步：从预训练到推理的革命_解读]] | 技术/商业 | 播客访谈 | 2026-03-13 |
 | [[Writer CEO - Easy Button for GenAI - 深度解读]] | 技术/产品 | 播客访谈 | 2026-03-13 |
 | [[Farewell_Chatbots_AI_Agents_Taking_Over_Customer_Service_Mike_Murchison_Ada_解读]] | 技术/商业 | 播客访谈 | 2026-03-13 |
@@ -66,7 +66,7 @@ status: "updating"
 | [[How_Ramp_Has_Organized_Its_Data_and_AI_Teams_For_Maximum_Impact_Eric_Glyman_解读]] | 技术/组织管理 | 播客访谈 | 2026-03-13 |
 | [[Understanding_Data_Engineering_2025_Ben_Rogojan_Seattle_Data_Guy_解读]] | 技术/数据工程 | 播客访谈 | 2026-03-13 |
 | [[Trino_Iceberg_与数据湖房之战_Justin_Borgman访谈解读]] | 技术/数据基础设施 | 播客访谈 | 2026-03-13 |
-| [[构建 LLM 应用的反馈循环 - TensorZero CTO Viraj Mehta 演讲解读]] | 技术/LLM基础设施 | 产品演示 | 2026-03-13 |
+| [[中-模型研究-构建 LLM 应用的反馈循环 - TensorZero CTO Viraj Mehta 演讲解读]] | 技术/LLM基础设施 | 产品演示 | 2026-03-13 |
 | [[DeepScribe CEO - 医疗AI自动化终结医生职业倦怠_解读]] | 技术/医疗 | 播客访谈 | 2026-03-13 |
 | [[Datadog CEO - AI时代的机器监控与产品战略_解读]] | 技术/DevOps | 播客访谈 | 2026-03-13 |
 | [[Canva CTO - 30亿美元ARR的AI规模化部署_解读]] | 技术/产品 | 播客访谈 | 2026-03-13 |
@@ -84,7 +84,7 @@ status: "updating"
 | [[AI基础设施的魔法_Modal_CEO谈Serverless推理_解读]] | 技术/基础设施 | 产品演示 | 2026-03-13 |
 | [[AI是平台转变还是范式转变_Benedict_Evans深度解析_解读]] | 技术/商业 | Mad Podcast | 2026-03-13 |
 | [[为什么Apple Vision Pro还没有普及_缺失了什么_解读]] | 技术/产品 | Benedict Evans | 2026-03-13 |
-| [[构建终极AI程序员的竞赛_Poolside_CTO_Eiso_Kant访谈_解读]] | 技术/AI编程 | Mad Podcast | 2026-03-13 |
+| [[拉-构建终极AI程序员的竞赛_Poolside_CTO_Eiso_Kant访谈_解读]] | 技术/AI编程 | Mad Podcast | 2026-03-13 |
 | [[AI正革命性改变早期癌症检测_Emi_Gal_Ezra CEO访谈_解读]] | 技术/医疗 | MAD Podcast | 2026-03-14 |
 | [[AI对决呼叫中心_客户服务的未来_Gustavo_Sapoznik_ASAPP_CEO访谈_解读]] | 技术/客服 | MAD Podcast | 2026-03-14 |
 | [[LlamaIndex与RAG的规模化之路_Jerry_Liu访谈_解读]] | 技术/RAG | Data Driven NYC | 2026-03-14 |
@@ -96,7 +96,7 @@ status: "updating"
 | [[1.5万美元起家打造百亿独角兽：Celonis CEO谈自力更生与产品市场契合_解读]] | 商业/创业 | Data Driven NYC | 2026-03-14 |
 | [[华尔街情报层：Rogo CEO 谈金融 AI 代理_解读]] | 技术/金融科技 | Data Driven NYC | 2026-03-14 |
 | [[企业 AI 助手部署之道：Dust 创始人谈团队生产力_解读]] | 技术/企业AI | 产品演示 | 2026-03-14 |
-| [[代码维护自动化：Grit CEO 谈技术债自动修复_解读]] | 技术/DevTool | 产品演示 | 2026-03-14 |
+| [[中-代码维护自动化：Grit CEO 谈技术债自动修复_解读]] | 技术/DevTool | 产品演示 | 2026-03-14 |
 
 ---
 

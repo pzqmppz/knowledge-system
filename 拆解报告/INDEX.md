@@ -157,7 +157,7 @@ status: "updating"
 | [[口播稿/LlamaIndex_-_可扩展RAG_AI解读]] | 播客访谈 | 技术/产品 | LlamaIndex谈可扩展RAG AI框架 |
 | [[口播稿/华尔街情报层：Rogo CEO 谈金融 AI 代理_解读]] | 播客访谈 | 技术/金融 | Rogo CEO谈为华尔街构建AI智能层 |
 | [[口播稿/企业 AI 助手部署之道：Dust 创始人谈团队生产力_解读]] | 产品演示 | 技术/企业AI | Dust创始人谈企业AI助手部署 |
-| [[口播稿/代码维护自动化：Grit CEO 谈技术债自动修复_解读]] | 产品演示 | 技术/DevTool | Grit CEO谈用AI自动化代码维护 |
+| [[中-代码维护自动化：Grit CEO 谈技术债自动修复_解读]] | 产品演示 | 技术/DevTool | Grit CEO谈用AI自动化代码维护 |
 
 ---
 
